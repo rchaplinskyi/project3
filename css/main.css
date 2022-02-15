@@ -9,3 +9,12 @@ body {
     max-width: 1100px;
     margin: 0 auto;
 }
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+.cards_item {
+    width: 520px;
+    background-color: #3c3c3c;
+    font-size: 14px;
+}
